@@ -1,0 +1,35 @@
+.kalkulatorbmi {
+    max-width: 300px;
+    padding: 10px 24px;
+    box-shadow: 0 4px 8px -3px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: black;
+    
+}
+
+label {
+    font-weight: 200;
+}
+
+.hitungbmi button {
+    display: flex;
+    background-color: rgb(51, 206, 253);
+    border-color: aqua;
+    border-radius: 4px;
+
+}
+
+.Hasil {
+    max-width: 300px;
+    padding: 8px 24px;
+    box-shadow: 0 4px 8px -3px;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: black;
+}
+
+.Hasil p {
+    font-weight: 200;
+}
+button 
